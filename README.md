@@ -6,7 +6,7 @@
 
 ## What is it? 🤔
 
-**PROVIDED AS IS** is a **safe space** for Open Source maintainers to come together, meet, learn and discuss. The meetup runs quarterly in London, UK, with the support of [Formidable](https://github.com/formidable) and our other generous [sponsors](SPONSORING.md).
+**PROVIDED AS IS** is a **safe space** for Open Source maintainers to come together, meet, learn and discuss. The meetup runs quarterly in London, UK, with the support of [Formidable](https://github.com/formidablelabs) and our other generous [sponsors](SPONSORING.md).
 
 Working with Open Source requires a set of skills beyond "just coding" that people often find challenging. No matter how small or large the community around your open source project, the role of a maintainer can feel **isolated**, as maintainers rarely get to meet in person.
 
